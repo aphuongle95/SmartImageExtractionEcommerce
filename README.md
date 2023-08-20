@@ -10,18 +10,21 @@ Also, be aware that not all e-commerce sites are in English, so be careful when 
 - [x] be able to view the html in a clean manner (only tag name, text and image link) 
 - [x] extract all headers
 - [x] remove unrelevant tags, e.g. script, header, footer
-- [ ] divide the page into separate elements, each element is represented as a Beautiful Soup. The element needs to satisfy these following requirements:
-    - [ ] every element holds at least one header
-    - [ ] if one element contains more than one header: it must be not separable
-    - [ ] every image must be kept inside one element 
-    - [ ] those elements (either a child or a parent) that don't contain any image or header can be deleted
-- results of previous process:
-[
-    element1: {headers1, tree1 containing images1}
-    element2: {headers2, tree2 containing images2}
-    ...
-]
+- [x] clean the html to satisfy these following requirements:
+    - [x] every image must be kept
+    - [x] every header must be kept
+    - [x] those elements that don't contain any image or header can be deleted
 - [ ] find element that might contain the product's image
-    - [ ] classify a header as relevant or not relevant (e.g. Delivery & Returns is not relevant while product_name might be relevant)
-    - [ ] keep only the first relevant element
+    - [ ] : group images by class, find product's title
+    - [ ]: find the image class that contains the product's images
+        - [-] idea: use openai, 
+            - [x] first test: compress the tree further to minimize number of tokens(filter out tokens), recursively feed the api with the cleaned text, ask it return the image link as array >> seems quite successful
+            - [ ] next step: 
+                - [ ] test with other sites
+                - [ ] clean code, batching of the text in a smarter way? check openai tokenizer
+                - [ ] use way to identify image? regex or class of image
+        - [ ] idea: find the biggest image in the website, it's class and the image near them (maybe make use of css as well)
+    - extra step: maybe use image classification 
+        - classify between logos and product images
+        - classify if 2 product images belong to the similar products or complement products
 - [ ] check images inside that element
