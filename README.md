@@ -15,15 +15,16 @@ Also, be aware that not all e-commerce sites are in English, so be careful when 
     - [x] every header must be kept
     - [x] those elements that don't contain any image or header can be deleted
 - [ ] find element that might contain the product's image
-    - [ ] : group images by class, find product's title
-    - [ ]: find the image class that contains the product's images
-        - [-] idea: use openai, 
-            - [x] first test: compress the tree further to minimize number of tokens(filter out tokens), recursively feed the api with the cleaned text, ask it return the image link as array >> seems quite successful
-            - [ ] next step: 
-                - [ ] test with other sites
-                - [ ] clean code, batching of the text in a smarter way? check openai tokenizer
-                - [ ] use way to identify image? regex or class of image
-        - [ ] idea: find the biggest image in the website, it's class and the image near them (maybe make use of css as well)
+    - [ ] find the image class that contains the product's images
+        - [-] idea 1: use openai, 
+            - first experiment: compress the tree further to minimize number of tokens(filter out tokens), recursively feed the api with the cleaned text, ask it return the image link as array >> seems quite successful
+            - [x] restructure code: from website link > process with beautiful soup > clean to get a short prompt > return the links
+            - [x] keep only important information like image links, header texts and class names
+            - [x] remove duplicates if the class + text/link is similar to the last entry
+            - [-] should not batch, keep short prompt
+            - [-] might use get_image_url_alt to get more image information
+            - [ ] test with other sites
+        - [ ] idea 2: use selenium; find the biggest image in the website, it's class and the image near them (maybe make use of css as well)
     - extra step: maybe use image classification 
         - classify between logos and product images
         - classify if 2 product images belong to the similar products or complement products

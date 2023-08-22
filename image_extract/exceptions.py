@@ -1,0 +1,1 @@
+class WrongInputException(Exception)

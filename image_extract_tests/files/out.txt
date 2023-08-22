@@ -1,0 +1,4 @@
+,class_names,link
+0,,https://i.gadgets360cdn.com/products/large/samsung-galaxy-z-fold-5-671x800-1690370876.jpg?downsize=*:180
+1,,https://c.ndtvimg.com/2023-07/0iqi4o0g_image_640x480_26_July_23.jpg?downsize=*:40
+2,,https://i.gadgets360cdn.com/products/large/samsung-galaxy-z-fold-5-671x800-1690370876.jpg?downsize=*:40
