@@ -1,4 +1,4 @@
-# HTMLMining
+# Extracting images from ecommerce sites
 
 ## Objective
 The aim of this project is to extract images of a product from its product page in an ecommerce website.
