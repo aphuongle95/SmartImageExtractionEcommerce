@@ -1,0 +1,20 @@
+
+gallery-image__img	https://www.lidl.de/assets/gcp354e295b2c4b4953aca1d2e3d6d6cbbc.jpeg
+gallery-image__img	https://www.lidl.de/assets/gcp0cf7cca0f3764ce2a7494f67e9476243.jpeg
+gallery-image__img	https://www.lidl.de/assets/gcp8e603bc1f2254b8496364106b9907113.jpeg
+gallery-image__img	https://www.lidl.de/assets/gcpcbde229476b6450a88c15c5423519198.jpeg
+gallery-image__img	https://www.lidl.de/assets/gcp30e50a9b53d04e9094a9610762b6b314.jpeg
+gallery-image__img	https://www.lidl.de/assets/gcpc5032ffcf8984e77b48e34c091e44a0f.jpeg
+gallery-image__img	https://www.lidl.de/assets/gcp0b3bce90684841d89165ab76f6fdf010.jpeg
+gallery-image__img	https://www.lidl.de/assets/gcp33ee92851ee34397b913f6c45d1f4f85.jpeg
+gallery-image__img	https://www.lidl.de/assets/gcp183f631327c7426881dc3ad525d071eb.jpeg
+gallery-image__img	https://www.lidl.de/assets/gcp5a6b0c72bbc74320b4e0cb52fb077ef8.jpeg
+keyfacts__title	SILVERCREST® Tischventilator »Turbo STVT 21 B1«, Ø 22 cm
+select-image-item__img	https://www.lidl.de/assets/gcp89b5ef9a35084602bf22987df24954b0.jpeg
+select-image-item__img	https://www.lidl.de/assets/gcp4853906b242445faadf5bbc32554e188.jpeg
+buybox__subtitle	Artikelnummer:
+	SILVERCREST® Tischventilator »Turbo STVT 21 B1«, Ø 22 cm
+info__addition-title	Merkmale
+features__image	https://www.lidl.de/assets/gcpbf79ffdf385e472b898f12072d9e605c.png
+n-footer__bottom-banner-title	Mehr Feiern. Mehr Freude. Mehr Lidl.
+n-footer__bottom-banner-title	50 Jahre Lidl

@@ -1,0 +1,16 @@
+
+-fw -fh	https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/54/8889201/1.jpg?5797
+-fs14 -m -upp -pbs	Share this product
+-fs20 -pts -pbxs	Binatone Dry Iron (Di1255)
+-fs14 -m -upp -pvs -hr	Promotions
+-fs14 -m -upp -pas	Delivery & Returns
+-fs14 -fw -m	Return Policy
+-m -fs14	Seller Information
+	https://imgur.com/H5EyEmM.jpg
+	https://ng.jumia.is/cms/external/pet/BI681HL0TS7B6NAFAMZ/5d079bdc9c99ddfa8df8128aad5f0291.jpg
+hdr -upp -fs14 -m -pam	Key Features
+-fs14 -m -upp -pvm	Verified Ratings (660)
+-m -fs16 -pvs	its not that hot
+-m -fs16 -pvs	Good but not Excellent
+-fsh0 -rad4	https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/54/8889201/1.jpg?5797
+-elli -fs14	Binatone Dry Iron (Di1255)

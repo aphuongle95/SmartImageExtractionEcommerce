@@ -3,7 +3,7 @@ from difflib import SequenceMatcher
 
 
 class TextUtils:
-    THRESHOLD = 0.8
+    THRESHOLD = 0.6
     
     def compute_similarity_percentage(self, a: str, b: str) -> float:
         """Compute similarity between two strings"""

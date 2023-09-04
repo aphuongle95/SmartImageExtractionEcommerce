@@ -17,6 +17,8 @@ class FileUtils():
     
     def __init__(self, name, link="") -> None:
         self.name = name
+        if link == "":
+            link = FileUtils.get_all_links()[name]
         self.link = link
         self.html_file = self.FOLDER / (name + self.HTML_FILE_POSTFIX)
         self.html_cleaned_file = self.FOLDER / (name + self.CLEANED_HTML_FILE_POSTFIX)
@@ -43,7 +45,8 @@ class FileUtils():
         else:
             import requests
             try:
-                response = requests.get(link)
+                headers = {"User-Agent": "Mozilla/5.0 (X11; CrOS x86_64 12871.102.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.141 Safari/537.36"}
+                response = requests.get(link, headers=headers)
                 if response.status_code == 200:
                     html_content = response.text
                     return html_content

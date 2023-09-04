@@ -1,0 +1,17 @@
+,class_names,link
+0,spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage,https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760447_800.jpg
+1,spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage,https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760442_800.jpg
+2,spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage,https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760437_800.jpg
+3,spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage,https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760492_800.jpg
+4,spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage,https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760482_800.jpg
+5,spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage,https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760497_800.jpg
+6,spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage,https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760487_800.jpg
+7,spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage,https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760452_800.jpg
+8,spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage,https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760477_800.jpg
+9,spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage,https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760457_800.jpg
+10,spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage,https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760462_800.jpg
+11,spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage,https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760467_800.jpg
+12,spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage,https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760472_800.jpg
+13,fx-image offer__visual-source fx-mix-blend-mode--multiply,https://thumbs.static-thomann.de/thumb//thumb80x80/pics/prod/425179.jpg
+14,fx-image offer__visual-source fx-mix-blend-mode--multiply,https://thumbs.static-thomann.de/thumb//thumb80x80/pics/prod/228423.jpg
+15,fx-image fx-mix-blend-mode--multiply fx-product-box__image,https://thumbs.static-thomann.de/thumb/thumb248x248/pics/prod/425179.jpg

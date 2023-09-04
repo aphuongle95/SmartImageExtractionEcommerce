@@ -1,0 +1,17 @@
+
+pdp_details-short-info__title pl_headline100 pl_headline200--lg	Artikelbeschreibung
+pdp_detail-short-info__logo	https://i.otto.de/i/otto/48c904c0c89c48d358bf5298a3a7da72?$ov_brandlogo_retina$
+rc_teaser__headline pl_headline100	Hisense E61KT
+rc_teaser__headline pl_headline100	UHD AI Upscaler
+rc_teaser__headline pl_headline100	VIDAA U6
+rc_teaser__headline pl_headline100	DTS Virtual: X
+rc_teaser__headline pl_headline100	Sport Modus
+pl_headline100 pl_headline200--lg pl_mb50	Details
+pdp_manufacturer-content-btn__logo	https://i.otto.de/i/otto/48c904c0c89c48d358bf5298a3a7da72?$ov_brandlogo$
+pl_headline100 pl_headline200--lg pl_mb150	Wichtige Informationen
+pl_headline200	Kundenbewertungen
+pl_headline300 pl_mr25	4.5
+pl_headline100 nav_linkbox-headline	Mehr entdecken
+pl_headline50	Fernseher anderer Marken
+pl_headline50	Ähnliche Kategorien
+pl_headline50	Mehr von Hisense

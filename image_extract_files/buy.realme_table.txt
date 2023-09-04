@@ -1,0 +1,6 @@
+
+close-icon--app gtag	https://static.realme.net/v3/common/images/close_w-023b40f19a.png
+app-icon	https://static.realme.net/v3/common/images/toApp-overseas-25892ede38.png
+link-icon-right	https://static.realme.net/v3/common/images/icon/ic_path_right-6146f63b63.png
+link-icon-right	https://static.realme.net/v3/common/images/icon/ic_path_right-6146f63b63.png
+link-icon-right	https://static.realme.net/v3/common/images/icon/ic_path_right-6146f63b63.png

@@ -1,0 +1,2 @@
+,class_names,link
+0,datasheet-cover-image,https://cdn.idealo.com/folder/Product/202092/5/202092559/s1_produktbild_gross/apple-airpods-pro-2.jpg

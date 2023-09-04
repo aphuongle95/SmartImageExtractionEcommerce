@@ -1,0 +1,14 @@
+
+slider_image	https://checkbox.live/uploads/images/product/multi-images/image-1685161725618681653.jpeg
+slider_image	https://checkbox.live/uploads/images/product/multi-images/image-1685161725244142795.jpeg
+slider_image	https://checkbox.live/uploads/images/product/multi-images/image-1685161725783404462.jpeg
+	https://checkbox.live/uploads/images/product/multi-images/image-1685161725618681653.jpeg
+	https://checkbox.live/uploads/images/product/multi-images/image-1685161725244142795.jpeg
+	https://checkbox.live/uploads/images/product/multi-images/image-1685161725783404462.jpeg
+product-name	SX8 Wireless Microphone for Type-C Android & iPhone Interview, vlog, Live Mic Noise Reduction (RUB)
+	Product Description
+	Reseller Instructions
+	Related Products
+product_image thumbnail_effect	https://checkbox.live/uploads/images/product/200x200/image-1685160469285609197.jpeg
+product_image thumbnail_effect	https://checkbox.live/uploads/images/product/200x200/image-16756657511202038061.jpeg
+product_image thumbnail_effect	https://checkbox.live/uploads/images/product/200x200/image-16716191172123691532.jpeg

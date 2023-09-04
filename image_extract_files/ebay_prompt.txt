@@ -1,0 +1,16 @@
+
+clipped	breadcrumb
+g-hdn	Picture Information
+clipped	Picture 1 of 5
+ux-image-magnify__image--original	https://i.ebayimg.com/images/g/ajYAAOSwKSxkmOy1/s-l500.jpg
+section-title__title	F#2, F#0, F#f_1, F#1[0], F/, F/, F/, F/
+g-hdn	Item Information
+page-notice__title	F#7, Oops! Looks like we're having trouble connecting to our server., F/
+section-title__title	F#2, F#0, F/, F/
+lightbox-dialog__title	F#1, F#0, F#f_1, F#1[0], F/, F/, F/, F/
+section-title__title	F#2, F#0, F/, F/
+d-stores-info-categories__container__info__section__title	vim#STORE_INFORMATION0-0-9-0, vim/
+fdbk-detail-list__title	F#3, F#4, F/, F#4, F/, F/
+section-title__title	F#2, F#0, F#f_1, F#1[0], F/, F/, F/, F/
+seo-footer-title	Shop the Latest Sneakers
+footer-section-heading	Best Sellers

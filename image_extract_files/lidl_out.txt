@@ -1,0 +1,11 @@
+,class_names,link
+0,gallery-image__img,https://www.lidl.de/assets/gcp354e295b2c4b4953aca1d2e3d6d6cbbc.jpeg
+1,gallery-image__img,https://www.lidl.de/assets/gcp0cf7cca0f3764ce2a7494f67e9476243.jpeg
+2,gallery-image__img,https://www.lidl.de/assets/gcp8e603bc1f2254b8496364106b9907113.jpeg
+3,gallery-image__img,https://www.lidl.de/assets/gcpcbde229476b6450a88c15c5423519198.jpeg
+4,gallery-image__img,https://www.lidl.de/assets/gcp30e50a9b53d04e9094a9610762b6b314.jpeg
+5,gallery-image__img,https://www.lidl.de/assets/gcpc5032ffcf8984e77b48e34c091e44a0f.jpeg
+6,gallery-image__img,https://www.lidl.de/assets/gcp0b3bce90684841d89165ab76f6fdf010.jpeg
+7,gallery-image__img,https://www.lidl.de/assets/gcp33ee92851ee34397b913f6c45d1f4f85.jpeg
+8,gallery-image__img,https://www.lidl.de/assets/gcp183f631327c7426881dc3ad525d071eb.jpeg
+9,gallery-image__img,https://www.lidl.de/assets/gcp5a6b0c72bbc74320b4e0cb52fb077ef8.jpeg

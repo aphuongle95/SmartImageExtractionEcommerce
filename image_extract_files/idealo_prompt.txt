@@ -1,0 +1,18 @@
+
+	Zuletzt angesehen
+	Top 10 Produkte
+	Zurzeit beliebt auf idealo
+datasheet-title small-12 columns	Produktdetails
+datasheet-cover-image	https://cdn.idealo.com/folder/Product/202092/5/202092559/s1_produktbild_gross/apple-airpods-pro-2.jpg
+productOffers-headerTitle	Preisvergleich
+editorialProductText-title row	Expertenmeinung
+	Apple AirPods Pro 2
+	Das beste ANC in Ohrhörern
+	Auch mit starkem Klang!
+	Perfekter Komfort
+	Apple AirPods Pro 2
+	Neue Touch-Bedienung
+	Verbesserungen bei der Klangqualität
+	Etwas längere Akkulaufzeit
+productTests-title small-12 columns	Testberichte - von uns für Dich zusammengefasst
+	Weitere Stichworte zu dem Produkt AirPods Pro 2:

@@ -1,0 +1,9 @@
+
+pdp_details-short-info__title pl_headline100 pl_headline200--lg	Artikelbeschreibung
+rc_teaser__headline pl_headline100	Hisense E61KT
+pl_headline100 pl_headline200--lg pl_mb50	Details
+pl_headline100 pl_headline200--lg pl_mb150	Wichtige Informationen
+pl_headline200	Kundenbewertungen
+pl_headline300 pl_mr25	4.5
+pl_headline100 nav_linkbox-headline	Mehr entdecken
+pl_headline50	Fernseher anderer Marken

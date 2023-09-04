@@ -8,6 +8,8 @@ class SoupUtils():
     HEADER_TAGS = ["h1", "h2", "h3"]
     CLASS_ATTR = "class"
     SRC_ATTR = "src"
+    DATA_SRC_ATTR = "data-src"
+    ALT = "alt"
     
     def get_soup(self, html_content: str):
         """Get soup from html content"""
@@ -53,16 +55,29 @@ class SoupUtils():
     
     def construct_table(self, soup: BeautifulSoup) -> str:
         """Construct a table from soup
-        This table contains only important information"""
+        This table contains only important information
+        Remove similar lines to compress prompt further"""
         if not self._is_include(soup):
             return ""
         else:
             return_str = ""
             # image source
             if soup.name == self.IMG_TAG and soup.has_attr(self.SRC_ATTR):
-                if soup[self.SRC_ATTR].startswith("data:image/"): # skip small images (logos, banners, etc.)
+                if soup[self.SRC_ATTR].startswith("//static-assets-web"): # skip small images (logos, banners, etc.) 
                     return ""
-                return_str += f"\n{self._get_class(soup)}\t{soup[self.SRC_ATTR]}" 
+                if soup[self.SRC_ATTR].endswith(".gif") or soup[self.SRC_ATTR].endswith(".svg"): # skip small images (logos, banners, etc.) 
+                    return ""
+                img_src = ""
+                # get http image from the data-src or alt if there's no src 
+                if not soup[self.SRC_ATTR].startswith("http"):
+                    if soup.has_attr(self.DATA_SRC_ATTR) and soup[self.DATA_SRC_ATTR].startswith("http"):
+                        img_src = soup[self.DATA_SRC_ATTR]
+                    elif soup.has_attr(self.ALT) and soup[self.ALT].startswith("http"):
+                        img_src = soup[self.ALT]
+                else:
+                    img_src = soup[self.SRC_ATTR]
+                if img_src != "":
+                    return_str += f"\n{self._get_class(soup)}\t{img_src}" 
             # or text:
             text = self._get_text(soup)
             if text != "" and len(text) < 100 and soup.name in self.HEADER_TAGS: # taking non-empty, not-too-long text with header tag

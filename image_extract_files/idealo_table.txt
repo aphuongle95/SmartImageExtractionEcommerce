@@ -1,0 +1,33 @@
+
+	Zuletzt angesehen
+	Top 10 Produkte
+	https://cdn.idealo.com/folder/Product/6509/8/6509891/s1_produktbild_klein/apple-airpods-2-2019.jpg
+	https://cdn.idealo.com/folder/Product/201554/9/201554991/s1_produktbild_klein/apple-airpods-3.jpg
+	https://cdn.idealo.com/folder/Product/200929/7/200929722/s1_produktbild_klein/apple-airpods-max.jpg
+	https://cdn.idealo.com/folder/Product/202054/8/202054802/s1_produktbild_klein/samsung-galaxy-buds-2-pro-sm-r510.jpg
+	https://cdn.idealo.com/folder/Product/6837/6/6837655/s1_produktbild_klein/apple-airpods-pro.jpg
+	https://cdn.idealo.com/folder/Product/201921/9/201921950/s1_produktbild_klein/sennheiser-momentum-true-wireless-3.jpg
+	https://cdn.idealo.com/folder/Product/201961/5/201961564/s1_produktbild_klein/sony-linkbuds-s.jpg
+	https://cdn.idealo.com/folder/Product/201657/2/201657258/s1_produktbild_klein/apple-airpods-pro-2021-mit-magsafe-ladecase.jpg
+	https://cdn.idealo.com/folder/Product/200278/0/200278049/s1_produktbild_klein/sony-wh-1000xm4.jpg
+	https://cdn.idealo.com/folder/Product/201502/3/201502329/s1_produktbild_klein/samsung-galaxy-buds-2-sm-r177.jpg
+	Zurzeit beliebt auf idealo
+	https://cdn.idealo.com/folder/Product/6837/6/6837655/s1_produktbild_klein/apple-airpods-pro.jpg
+	https://cdn.idealo.com/folder/Product/202729/2/202729210/s1_produktbild_klein/apple-airpods-3-mit-lightning-case.jpg
+	https://cdn.idealo.com/folder/Product/201657/2/201657258/s1_produktbild_klein/apple-airpods-pro-2021-mit-magsafe-ladecase.jpg
+	https://cdn.idealo.com/folder/Product/202729/2/202729229/s1_produktbild_klein/apple-airpods-3-with-magsafe-case.jpg
+	https://cdn.idealo.com/images/product/201969003/de_DE/0/klein.jpg
+datasheet-title small-12 columns	Produktdetails
+datasheet-cover-image	https://cdn.idealo.com/folder/Product/202092/5/202092559/s1_produktbild_gross/apple-airpods-pro-2.jpg
+productOffers-headerTitle	Preisvergleich
+editorialProductText-title row	Expertenmeinung
+	Apple AirPods Pro 2
+	Das beste ANC in Ohrhörern
+	Auch mit starkem Klang!
+	Perfekter Komfort
+	Apple AirPods Pro 2
+	Neue Touch-Bedienung
+	Verbesserungen bei der Klangqualität
+	Etwas längere Akkulaufzeit
+productTests-title small-12 columns	Testberichte - von uns für Dich zusammengefasst
+	Weitere Stichworte zu dem Produkt AirPods Pro 2:

@@ -20,14 +20,27 @@ Also, be aware that not all e-commerce sites are in English, so be careful when 
 - [ ] find element that might contain the product's image
     - [ ] find the image class that contains the product's images
         - [-] idea 1: use openai, 
-            - first experiment: compress the tree further to minimize number of tokens(filter out tokens), recursively feed the api with the cleaned text, ask it return the image link as array >> seems quite successful
+            - first experiment: compress the tree further to minimize number of tokens(filter out tokens), recursively feed the api with the cleaned text, ask it return the image link as array >> seems quite succther essful
             - [x] restructure code: from website link > process with beautiful soup > clean to get a short prompt > return the links
             - [x] keep only important information like image links, header texts and class names
             - [x] remove duplicates if the class + text/link is similar to the last entry
             - [-] should not batch, keep short prompt
             - [-] might use get_image_url_alt to get more image information
-            - [ ] test with other sites
-        - [ ] idea 2: use selenium; find the biggest image in the website, it's class and the image near them (maybe make use of css as well)
+            - [x] remove duplicated lines in prompt
+            - [x] fix bug related to jumia (image https source doesn't appear in src but in data-src)
+            - [x] test with other ecommerce sites
+            - [x] reject small images from results (70)
+            - [ ] use title and text before and after images in the prompt as well
+        - [ ] idea 2: use selenium
+            - [x] find the biggest image in the website, it's class and the image near them (maybe make use of css as well)
+            - [ ] integrate in the prompt
+        - [ ] try crawlbase to load the website correctly
+        - [ ] reject images if it doesn't have same parents' div
+        - [ ] compare old algorithm with chat-gpt based algorithm to see which ones has better precision
+        - observations:
+            - maybe we don't even need chatgpt
+            - as we made the prompt so clean
+            - that we can look at the prompt directly to get the images
     - extra step: maybe use image classification 
         - classify between logos and product images
         - classify if 2 product images belong to the similar products or complement products

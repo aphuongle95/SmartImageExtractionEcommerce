@@ -1,0 +1,38 @@
+
+spicy-consent-bar__image	https://fast-images.static-thomann.de/pics//images/cookie/oma_with_thomann_cookies.png
+fx-product-headline product-title__title	La Mancha Rubi CM/59
+spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage	https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760447_800.jpg
+spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage	https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760442_800.jpg
+spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage	https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760437_800.jpg
+spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage	https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760492_800.jpg
+spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage	https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760482_800.jpg
+spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage	https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760497_800.jpg
+spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage	https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760487_800.jpg
+spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage	https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760452_800.jpg
+spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage	https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760477_800.jpg
+spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage	https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760457_800.jpg
+spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage	https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760462_800.jpg
+spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage	https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760467_800.jpg
+spotlight__item-image fx-image fx-mix-blend-mode--multiply ZoomCurrentImage	https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/425179/12760472_800.jpg
+navigator__item-image fx-image fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb/thumb80x80/pics/bdb/_42/425179/12760447_800.jpg
+navigator__item-image fx-image fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb/thumb80x80/pics/bdb/_42/425179/12760442_800.jpg
+navigator__item-image fx-image fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb/thumb80x80/pics/bdb/_42/425179/12760437_800.jpg
+navigator__item-image fx-image fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb/thumb80x80/pics/bdb/_42/425179/12760492_800.jpg
+navigator__item-image fx-image fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb/thumb80x80/pics/bdb/_42/425179/12760482_800.jpg
+navigator__item-image fx-image fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb/thumb80x80/pics/bdb/_42/425179/12760497_800.jpg
+navigator__item-image fx-image fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb/thumb80x80/pics/bdb/_42/425179/12760487_800.jpg
+navigator__item-image fx-image fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb/thumb80x80/pics/bdb/_42/425179/12760452_800.jpg
+navigator__item-image fx-image fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb/thumb80x80/pics/bdb/_42/425179/12760477_800.jpg
+navigator__item-image fx-image fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb/thumb80x80/pics/bdb/_42/425179/12760457_800.jpg
+navigator__item-image fx-image fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb/thumb80x80/pics/bdb/_42/425179/12760462_800.jpg
+navigator__item-image fx-image fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb/thumb80x80/pics/bdb/_42/425179/12760467_800.jpg
+navigator__item-image fx-image fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb/thumb80x80/pics/bdb/_42/425179/12760472_800.jpg
+fx-headline fx-headline--3 fx-space-bottom--m	Konzertgitarre
+fx-image offer__visual-source fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb//thumb80x80/pics/prod/425179.jpg
+fx-image offer__visual-source fx-mix-blend-mode--multiply	https://thumbs.static-thomann.de/thumb//thumb80x80/pics/prod/228423.jpg
+fx-headline fx-headline--2 fx-space-bottom--s fx-text-align--center	Das kauften Kunden, die sich dieses Produkt angesehen haben
+fx-headline fx-headline--2 fx-space-bottom--s fx-text-align--center fx-space-zero	Kundenbewertungen
+fx-headline fx-headline--3 fx-space-top--xxl js-reviews-start	Rezensionen
+fx-grid__col fx-col--12 fx-col--md-8 fx-col--offset-md-2 fx-col--lg-6 fx-col--offset-lg-3 fx-headline fx-headline--2 fx-space-bottom--xl fx-text-align--center	Smart Navigator
+fx-image fx-mix-blend-mode--multiply fx-product-box__image	https://thumbs.static-thomann.de/thumb/thumb248x248/pics/prod/425179.jpg
+badges__image	https://fast-images.static-thomann.de/pics/images/badges/ekomi_new.png

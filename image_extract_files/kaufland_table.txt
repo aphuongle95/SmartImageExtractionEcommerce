@@ -1,0 +1,23 @@
+
+	https://media.cdn.kaufland.de/manufacturer/154x154/aeca0440cee21de9052bde0f42d8bb97.jpg
+	https://media.cdn.kaufland.de/manufacturer/154x154/aeca0440cee21de9052bde0f42d8bb97.jpg
+rd-gallery__image rd-gallery__image--thumbs	https://media.cdn.kaufland.de/product-images/1024x1024/2c71116b22ad92063fcfe7c4ae73b2f3.webp
+rd-gallery__image rd-gallery__image--thumbs	https://media.cdn.kaufland.de/product-images/1024x1024/8a45892bee1fc1b96c21dfbfeb625737.webp
+rd-gallery__image rd-gallery__image--thumbs	https://media.cdn.kaufland.de/product-images/100x100/a8195d1b33df244b1db996927fc19089.webp
+rd-gallery__image rd-gallery__image--thumbs	https://media.cdn.kaufland.de/product-images/100x100/2258aae0d8a8831bb5e04dffab12db31.webp
+rd-gallery__image rd-gallery__image--thumbs	https://media.cdn.kaufland.de/product-images/100x100/d83cca0272a6d1b9d5df919ecc8f8d34.webp
+rd-gallery__image rd-gallery__image--thumbs	https://media.cdn.kaufland.de/product-images/100x100/4d00f513648f4a39b615d32bf2a9b8fb.webp
+rd-gallery__image rd-gallery__image--thumbs	https://media.cdn.kaufland.de/product-images/100x100/fc964dee7dffdc25903a2b2dd90efdb6.webp
+rd-gallery__image rd-gallery__image--thumbs	https://media.cdn.kaufland.de/product-images/100x100/1a2f41941db7c7f249bf1a6dfb58f850.webp
+rd-gallery__image rd-gallery__image--thumbs	https://media.cdn.kaufland.de/product-images/100x100/4854370de0273cf1142bae1a1b96dcad.webp
+rd-gallery__image rd-gallery__image--thumbs	https://media.cdn.kaufland.de/product-images/100x100/5af1545dcffa33ac4607cbff3d38718e.webp
+rd-gallery__image rd-gallery__image--main	https://media.cdn.kaufland.de/product-images/1024x1024/2c71116b22ad92063fcfe7c4ae73b2f3.jpg
+rd-gallery__image rd-gallery__image--main	https://media.cdn.kaufland.de/product-images/1024x1024/8a45892bee1fc1b96c21dfbfeb625737.jpg
+rd-gallery__image rd-gallery__image--main	https://media.cdn.kaufland.de/product-images/100x100/a8195d1b33df244b1db996927fc19089.jpg
+rd-gallery__image rd-gallery__image--main	https://media.cdn.kaufland.de/product-images/100x100/2258aae0d8a8831bb5e04dffab12db31.jpg
+rd-gallery__image rd-gallery__image--main	https://media.cdn.kaufland.de/product-images/100x100/d83cca0272a6d1b9d5df919ecc8f8d34.jpg
+rd-gallery__image rd-gallery__image--main	https://media.cdn.kaufland.de/product-images/100x100/4d00f513648f4a39b615d32bf2a9b8fb.jpg
+rd-gallery__image rd-gallery__image--main	https://media.cdn.kaufland.de/product-images/100x100/fc964dee7dffdc25903a2b2dd90efdb6.jpg
+rd-gallery__image rd-gallery__image--main	https://media.cdn.kaufland.de/product-images/100x100/1a2f41941db7c7f249bf1a6dfb58f850.jpg
+rd-gallery__image rd-gallery__image--main	https://media.cdn.kaufland.de/product-images/100x100/4854370de0273cf1142bae1a1b96dcad.jpg
+rd-gallery__image rd-gallery__image--main	https://media.cdn.kaufland.de/product-images/100x100/5af1545dcffa33ac4607cbff3d38718e.jpg

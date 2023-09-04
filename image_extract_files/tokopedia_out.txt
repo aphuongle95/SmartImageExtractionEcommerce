@@ -1,0 +1,3 @@
+,class_names,link
+0,css-1c345mg,https://images.tokopedia.net/img/cache/500-square/VqbcmM/2023/2/23/a0999b1d-fd31-43ac-8c5f-1286122edd88.jpg?ect=4g
+1,css-1c345mg,https://images.tokopedia.net/img/cache/100-square/VqbcmM/2023/2/23/a0999b1d-fd31-43ac-8c5f-1286122edd88.jpg?ect=4g

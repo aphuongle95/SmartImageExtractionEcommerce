@@ -1,0 +1,31 @@
+
+_ni	https://ng.jumia.is/cms/0-1-weekly-cps/0-2023/01-Jumia-cover-you/Jumia-cover-you.gif
+-fw -fh	https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/54/8889201/1.jpg?5797
+-fw -fh	https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/54/8889201/2.jpg?5796
+-fw -fh	https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/54/8889201/3.jpg?5792
+-fw -fh	https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/54/8889201/4.jpg?8427
+-fw _ni	https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/54/8889201/1.jpg?5797
+-fw _ni	https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/54/8889201/2.jpg?5796
+-fw _ni	https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/54/8889201/3.jpg?5792
+-fw _ni	https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/54/8889201/4.jpg?8427
+-fs14 -m -upp -pbs	Share this product
+_ni	https://ng.jumia.is/badges/fdyje/3/138x18.png?8589
+-fs20 -pts -pbxs	Binatone Dry Iron (Di1255)
+-fs14 -m -upp -pvs -hr	Promotions
+-fs14 -m -upp -pas	Delivery & Returns
+-fs14 -fw -m	Return Policy
+-fs14 -fw -m	Warranty
+-m -fs14	Seller Information
+	https://imgur.com/H5EyEmM.jpg
+	https://ng.jumia.is/cms/external/pet/BI681HL0TS7B6NAFAMZ/5d079bdc9c99ddfa8df8128aad5f0291.jpg
+	https://ng.jumia.is/cms/external/pet/BI681HL0TS7B6NAFAMZ/79511225cab81564ec73a03cb7bd175e.jpg
+	https://ng.jumia.is/cms/external/pet/BI681HL0TS7B6NAFAMZ/ea506d9d752f9fae1a133cfab630b361.jpg
+hdr -upp -fs14 -m -pam	Key Features
+hdr -upp -fs14 -m -pam	Specifications
+-fs14 -m -upp -pvm	Verified Ratings (660)
+-fs14 -m -upp -ptm	Comments from Verified Purchases(310)
+-m -fs16 -pvs	its not that hot
+-m -fs16 -pvs	Light, Hot and Smooth
+-m -fs16 -pvs	Good but not Excellent
+-fsh0 -rad4	https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/54/8889201/1.jpg?5797
+-elli -fs14	Binatone Dry Iron (Di1255)

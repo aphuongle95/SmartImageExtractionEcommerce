@@ -1,0 +1,2 @@
+,class_names,link
+0,ux-image-magnify__image--original,https://i.ebayimg.com/images/g/ajYAAOSwKSxkmOy1/s-l500.jpg

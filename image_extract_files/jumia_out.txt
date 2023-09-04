@@ -1,0 +1,8 @@
+,class_names,link
+0,,https://imgur.com/H5EyEmM.jpg
+1,,https://ng.jumia.is/cms/external/pet/BI681HL0TS7B6NAFAMZ/5d079bdc9c99ddfa8df8128aad5f0291.jpg
+2,-fw _ni,https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/54/8889201/1.jpg?5797
+3,-fw _ni,https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/54/8889201/2.jpg?5796
+4,-fw _ni,https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/54/8889201/3.jpg?5792
+5,-fw _ni,https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/54/8889201/4.jpg?8427
+6,-fsh0 -rad4,https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/54/8889201/1.jpg?5797
