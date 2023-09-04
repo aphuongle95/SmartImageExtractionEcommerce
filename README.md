@@ -1,5 +1,8 @@
 # Extracting images from ecommerce sites
 
+## Note
+This is an ongoing research project so the code is not very clean.
+
 ## Objective
 The aim of this project is to extract images of a product from its product page in an ecommerce website.
 The product page can includes different kinds of images, including the product images itself, as well as the images from similar products or logos.
