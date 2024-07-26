@@ -1,4 +1,5 @@
 # Extracting Images from Ecommerce Sites
+This project emphasizes leveraging **LLMs** and **ChatGPT** for effective prompting to enhance image extraction precision.
 
 ## Note
 This is an ongoing research project, so the code may not be very clean.
@@ -46,4 +47,4 @@ The goal of this project is to extract product images from e-commerce product pa
 4. **Final Steps**
     - [ ] Verify images within identified elements
 
-This project emphasizes leveraging LLMs and ChatGPT for effective prompting to enhance image extraction precision.
+
